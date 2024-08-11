@@ -20,7 +20,7 @@ Troll, it works as follows:
 # Faq 🤔
 Q: **Is this a virus?**
 
-R: No this is not a malware or virus, although there are some antivirus that detect Virus, but the biggest antivirus like: **AVG, Avast, Win Defender, MalwareBytes, Kaspersky, ESET-NOD32, among others** do not detect it as malware or something dangerous, here you have the report made by me in [Virus Total](https://www.virustotal.com/gui/file/48f3b326fa6a67c63682220fa6fe6fddf0864e9af8a5200586bab47aeae33994?nocache=1), you can try in Tria.ge or Any.Run, although I am also making these antivirus not detect this as dangerous.
+R: No this is not a malware or virus, although there are some antivirus that detect Virus, but the biggest antivirus like: **AVG, Avast, Win Defender, MalwareBytes, Kaspersky, ESET-NOD32, among others** do not detect it as malware or something dangerous, here you have the report made by me in [Virus Total](https://www.virustotal.com/gui/file/9f7b386a7184191f63b293403291719a56163552efa6f91386a060b471e129ab?nocache=1), you can try in Tria.ge or Any.Run, although I am also making these antivirus not detect this as dangerous.
 
 Q: **Is a component or something necessary?**
 

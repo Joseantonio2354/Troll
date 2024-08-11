@@ -1,4 +1,4 @@
-#### LEEME -> [Español](https://github.com)
+#### LEEME -> [Español](README-ES.md)
 
 # What is Troll? ❓
 Troll or as its different vareables that are the same, is an application used to use it as a joke on your friends, using multimedia content (Nothing +18), sounds, etc, apart from reviving in the years where more viruses were made, the iconic HTML **You're an idiot.**
@@ -24,7 +24,7 @@ R: No this is not a malware or virus, although there are some antivirus that det
 
 Q: **Is a component or something necessary?**
 
-R: If you need components but they are few, you need or need: **.Net Framework 4.6 (Major or Equal)**, and you need two DLLs files, created by Microsoft that are necessary to play the videos in the execution, but don't worry, these files are already included in the ZIP that is on github.
+R: If you need components but they are few, you need: **.Net Framework 4.6 (Major or Equal)**, and you need two DLLs files, created by Microsoft that are necessary to play the videos in the execution, but don't worry, these files are already included in the ZIP that is on github.
 
 Q: **I have an error or I passed an error to my friend, how can I report it?**
 

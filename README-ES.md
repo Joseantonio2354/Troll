@@ -20,7 +20,7 @@ Troll, funciona de la siguiente manera:
 # Faq 🤔
 Q: **¿Es un virus?**
 
-R: No esto no es un malware o virus, aunque hay algunos antivirus que detectan Virus, pero los antivirus más grandes como: **AVG, Avast, Win Defender, MalwareBytes, Kaspersky, ESET-NOD32, entre otros** no lo detectan como malware o algo peligroso, aqui tienen el reporte hecho por mi en [Virus Total](https://www.virustotal.com/gui/file/48f3b326fa6a67c63682220fa6fe6fddf0864e9af8a5200586bab47aeae33994?nocache=1), pueden probar en Tria.ge o Any.Run, aunque tambien estoy haciendo que estos antivirus no detecten esto como peligroso.
+R: No esto no es un malware o virus, aunque hay algunos antivirus que detectan Virus, pero los antivirus más grandes como: **AVG, Avast, Win Defender, MalwareBytes, Kaspersky, ESET-NOD32, entre otros** no lo detectan como malware o algo peligroso, aqui tienen el reporte hecho por mi en [Virus Total](https://www.virustotal.com/gui/file/9f7b386a7184191f63b293403291719a56163552efa6f91386a060b471e129ab?nocache=1), pueden probar en Tria.ge o Any.Run, aunque tambien estoy haciendo que estos antivirus no detecten esto como peligroso.
 
 Q: **¿Es necesario un componente o algo así?**
 

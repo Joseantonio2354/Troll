@@ -15,9 +15,7 @@ Troll, it works as follows:
 ## Screenshots 📷
 
 <img width="500" alt="Screenshot 1" src="Screenshots/Photo 1.png"> <img width="500" alt="Screenshot 2" src="Screenshots/Photo 2.png"> 
-<div align="center">
-  <img src="Screenshots/Photo 3.png" alt="Screenshot 3" width="500">
-</div>
+<img width="500" alt="Screenshot 3" src="Screenshots/Photo 3.png"> 
 
 # Faq 🤔
 Q: **Is this a virus?**

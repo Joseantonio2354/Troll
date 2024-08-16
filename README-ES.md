@@ -45,6 +45,7 @@ R: La contraseña es: **troll** (Todas las versiones tienen la misma contraseña
 # Credits 👥
 Gracias a:
 
+[SoyFrozed](https://github.com/SoyFrozed) y ...
 
 Por ayudar a probar esto
 

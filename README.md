@@ -45,6 +45,7 @@ R: The password is: **troll** (All versions have the same password)
 # Credits 👥
 Thanks to:
 
+[SoyFrozed](https://github.com/SoyFrozed) and ...
 
 For helping to test this
 

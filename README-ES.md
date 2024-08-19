@@ -1,4 +1,4 @@
-#### README -> [English](README.md)
+#### English | [Spanish](README-ES.md)
 
 # ¿Qué es Troll? ❓
 Troll o como sus diferentes vareables que son lo mismo, es una aplicación utilizada para usarla como broma a tus amigos, utilizando contenido multimedia (Nada +18), sonidos, etc, aparte de revivir en los años donde más virus se hacían, el icónico HTML **Eres un idiota.**
